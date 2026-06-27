@@ -1,0 +1,16 @@
+{
+    "name": "stream",
+    "version": "1.0.0",
+    "description": "Aplicación con la API de Deezer",
+    "main": "server.js",
+    "scripts": {
+    "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+    }
+}
